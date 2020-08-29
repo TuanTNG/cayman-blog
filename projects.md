@@ -1,1 +1,9 @@
-## This is site for project
+---
+layout: page
+title: Projects
+tagline: 
+permalink: /projects.html
+ref: projects
+order: 1
+---
+x
