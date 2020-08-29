@@ -8,7 +8,7 @@
 layout: home
 ---
 
-I am Tuan Tang Ngoc (first, last and middle name) from Ho Chi Minh City, Vietnam. I am a final year student and expected to receive my bachelor degree in the honor program in Control & Automation Engineering at Ho Chi Minh city University of Technology in November 2020.
+I am Tuan Tang Ngoc (first, last and middle name) from Ho Chi Minh City, Vietnam. I am a final year student and expected to receive my bachelor degree in the honor program in Control & Automation Engineering at Ho Chi Minh City University of Technology in November 2020.
 
 At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) where I apply Deep Learning to solve Computer Vision tasks.
 
@@ -17,7 +17,7 @@ At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) w
 ## Education
 
 
-### Ho Chi Minh city University of Technology, Vietnam
+### Ho Chi Minh City University of Technology, Vietnam
 * Time: Sep 2016 – now
 * Bachelor of Control & Automation Engineering
 * GPA: 8.65/10.0
@@ -50,8 +50,8 @@ At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) w
 ### Scholarships
 [Luong Van Can Fund](http://www.lvcfund.org.vn/en/) (Sep. 2017, Sep. 2020), [Kanden-SS](https://kanden-sys.jp/) (Sep 2018), [Mitsuba](https://www.mitsuba.co.jp/english/) (Aug. 2017), and [Lawrence S. Ting](https://www.lawrencestingfoundation.org/en/) (Sep. 2017 I but refused to receive).
 
-### Honor class (Sep. 2017)
-Be selected to the student in Honor class of Control & Automation Engineering, Ho Chi Minh city University of Technology.
+### Honor Program (Sep. 2017)
+Be selected to the student in Honor Program of Control & Automation Engineering, Ho Chi Minh City University of Technology.
 
 ### Directly offered to study at Ho Chi Minh City University of Technology (May 2016)
 Offered to start university at Ho Chi Minh City University of Technology without taking any examination.
@@ -59,6 +59,6 @@ Offered to start university at Ho Chi Minh City University of Technology without
 ### National Excellent Student in Science and Engineering (Mar. 2015)
 The first prize in the Viet Nam National Secondary School Student Science and Engineering fair in 2015 in the field of Electrical and Mechanical Engineering and the overall second prize in the same contest.
 
-### Province Excellent Student (Mar 2014)
+### Province Excellent Student
 
-Third prize in Math at the contest of the Excellent Student in Math by the Department of Education Training, Ba Ria Vung Tau, Vietnam in three continuous years: 2014, 2015 and 2016.
+Third prize at the contest of the Excellent Student in Math by the Department of Education Training, Ba Ria Vung Tau, Vietnam in three continuous years: 2014, 2015 and 2016.
