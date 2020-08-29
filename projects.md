@@ -9,9 +9,10 @@ order: 1
 
 ------
 ## Head Pose Estimation
+[https://github.com/TuanTNG/Cybercore-Head-Pose-Estimation](https://github.com/TuanTNG/Cybercore-Head-Pose-Estimation)
 *Conducted at CyberCore when I were a machine-learning engineer*
 * **Time**: May 2020 -- Jul. 2020
-* **Role**: Major contributor of a team of 2 members, where leaded by [Mr. Khai](https://www.linkedin.com/in/nqkhai1706/?originalSubdomain=vn), I were responsible for reading, implementing SOTA papers and preparing dataset.
+* **Role**: Major contributor of a team of 2 members leaded by [Mr. Khai](https://www.linkedin.com/in/nqkhai1706/?originalSubdomain=vn), where I were responsible for reading, implementing SOTA papers and preparing dataset.
 * **Description**: We have researched network architechtures and and modify the training dataset to help the network learning easier as well as more statble. This project is a demo of [CyberCore](http://cybercore.co.jp/) delivered to customer in Japan for driver.
 * **Result**: The demo video was sent to customer.
 
