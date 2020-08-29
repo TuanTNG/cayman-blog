@@ -9,7 +9,7 @@ order: 1
 
 ------
 ## Rebar-Knot sementic segmentation
-*Conducted at CyberCore when I were a machine-learning engineer*
+*Conducted at CyberCore when I were a Machine learning Engineer*
 * **Time**: Jul. 2020 -- now
 * **Role**: Team member of a team with 2 members leading by [Thuy Nguyen Chinh](https://thuyngch.github.io/)
 * **Description**: This is a project between [CyberCore](http://cybercore.co.jp/) and [Panasonic](https://panasonic.jp/). In this project, I mainly focus on finding out a small model with acceptable accuracy and run at least 10 fps on CPU i5-9400, implementing various loss function and ajust the dataset's labels.
@@ -17,7 +17,7 @@ order: 1
 
 ------
 ## 3D Dangerous Object Detection using Milliwave Radar
-*Conducted at CyberCore when I were a machine-learning engineer*
+*Conducted at CyberCore when I were a Machine learning Engineer*
 * **Time**: Jun 2020 -- now
 * **Role**: Team member of a team with 6 members leading by [Thuy Nguyen Chinh](https://thuyngch.github.io/) and [Tuan Ho](https://www.linkedin.com/in/tuan-ho-4bba81174/?originalSubdomain=vn)
 * **Description**: Cooperate with [Taiyo Yuden](https://www.yuden.co.jp/eu/) to develop a security product for early alert at airports. It uses a network of various milliwave radars to detect dangerous objects (e.g., knife, gun) inside clothes.
@@ -27,7 +27,7 @@ order: 1
 ## Head Pose Estimation
 [https://github.com/TuanTNG/Cybercore-Head-Pose-Estimation](https://github.com/TuanTNG/Cybercore-Head-Pose-Estimation)
 
-*Conducted at CyberCore when I were a machine-learning engineer*
+*Conducted at CyberCore when I were a Machine learning Engineer*
 * **Time**: May 2020 -- Jul. 2020
 * **Role**: Major contributor of a team of 2 members, leaded by [Mr. Khai](https://www.linkedin.com/in/nqkhai1706/?originalSubdomain=vn), where I were responsible for reading, implementing SOTA papers and preparing dataset.
 * **Description**: We have researched network architechtures and and modify the training dataset to help the network learning easier as well as more statble. This project is a demo of [CyberCore](http://cybercore.co.jp/) delivered to customer in Japan for driver.
