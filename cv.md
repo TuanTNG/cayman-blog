@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: CV
 tagline: 
@@ -15,4 +15,4 @@ order: 2
 </object>
 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Go to the Home Page]({{ '/' | absolute_url }}) -->
