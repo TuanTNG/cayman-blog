@@ -4,7 +4,7 @@ title: Contact
 tagline: 
 permalink: /contact.html
 ref: contact
-order: 40
+order: 4
 ---
 
 [1]: http://i.imgur.com/9I6NRUm.png
