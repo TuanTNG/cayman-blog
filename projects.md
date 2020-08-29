@@ -4,7 +4,7 @@ title: Projects
 tagline: 
 permalink: /projects.html
 ref: projects
-order: 3
+order: 1
 ---
 
 ------
