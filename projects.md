@@ -7,6 +7,16 @@ ref: projects
 order: 1
 ---
 
+
+
+------
+## 3D Dangerous Object Detection using Milliwave Radar
+*Conducted at CyberCore when I were a machine-learning enginee*
+* **Time**: Jun 2020 -- now
+* **Role**: Team member of a team with 6 members.
+* **Description**: Cooperate with [Taiyo Yuden](https://www.yuden.co.jp/eu/) to develop a security product for early alert at airports. It uses a network of various milliwave radars to detect dangerous objects (e.g., knife, gun) inside clothes.
+* **Result**: In progress.
+
 ------
 ## Head Pose Estimation
 [https://github.com/TuanTNG/Cybercore-Head-Pose-Estimation](https://github.com/TuanTNG/Cybercore-Head-Pose-Estimation)
@@ -17,7 +27,7 @@ order: 1
 * **Description**: We have researched network architechtures and and modify the training dataset to help the network learning easier as well as more statble. This project is a demo of [CyberCore](http://cybercore.co.jp/) delivered to customer in Japan for driver.
 * **Result**: The demo video was sent to customer.
 
-
+------
 ## Vehicles detection, tracking and speed estimation
 *Conducted at Ho Chi Minh City University of Technology when I were a student*
 * **Time**: Dec. 2019 -- Now
