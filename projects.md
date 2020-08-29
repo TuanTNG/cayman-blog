@@ -11,9 +11,9 @@ order: 1
 ## Head Pose Estimation
 *Conducted at CyberCore when I were a machine-learning engineer*
 * **Time**: May 2020 -- Jul. 2020
-* **Role**: Major contributor of a team of 4 members, in which, I were responsible for reading, implementing, and improving SOTA papers.
-* **Description**: We have researched techniques to make a network being able to detect unknown objects (not seen in training set and may be harmful if being detected wrongly). This project is a contract between [CyberCore](http://cybercore.co.jp/) and [Toyota Research Institute Advanced Development](https://www.tri-ad.global/) for building a module in autonomous cars.
-* **Result**: The project was passed the PoC phase.
+* **Role**: Major contributor of a team of 2 members, where leaded by [Mr. Khai](https://www.linkedin.com/in/nqkhai1706/?originalSubdomain=vn), I were responsible for reading, implementing SOTA papers and preparing dataset.
+* **Description**: We have researched network architechtures and and modify the training dataset to help the network learning easier as well as more statble. This project is a demo of [CyberCore](http://cybercore.co.jp/) delivered to customer in Japan for driver.
+* **Result**: The demo video was sent to customer.
 
 
 ## Vehicles detection, tracking and speed estimation
