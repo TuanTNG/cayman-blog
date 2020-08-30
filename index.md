@@ -52,7 +52,7 @@ At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) w
 ## Honors
 
 ### Scholarships
-[Luong Van Can Fund](http://www.lvcfund.org.vn/en/) (Sep. 2017, Sep. 2020), [Kanden-SS](https://kanden-sys.jp/) (Sep 2018), [Mitsuba](https://www.mitsuba.co.jp/english/) (Aug. 2017), and [Lawrence S. Ting](https://www.lawrencestingfoundation.org/en/) (Sep. 2017 I but refused to receive).
+[Luong Van Can Fund](http://www.lvcfund.org.vn/en/) (Sep. 2017 - Sep. 2020), [Kanden-SS](https://kanden-sys.jp/) (Sep 2018), [Mitsuba](https://www.mitsuba.co.jp/english/) (Aug. 2017), and [Lawrence S. Ting](https://www.lawrencestingfoundation.org/en/) (Sep. 2017 I but refused to receive).
 
 ### Honor Program (Sep. 2017)
 Be selected to the student in Honor Program of Control & Automation Engineering, Ho Chi Minh City University of Technology.
