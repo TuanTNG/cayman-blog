@@ -22,7 +22,7 @@ At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) w
 
 
 ### Ho Chi Minh City University of Technology, Vietnam
-* Time: Sep 2016 – now
+* Time: Sep. 2016 – now
 * Bachelor of Control & Automation Engineering
 * GPA: 8.65/10.0
 
