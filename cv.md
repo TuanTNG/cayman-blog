@@ -4,7 +4,7 @@ title: CV
 tagline: 
 permalink: /resume.html
 ref: CV
-order: 2
+order: 3
 ---
 
 <!-- 
