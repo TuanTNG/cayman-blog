@@ -9,7 +9,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src="https://github.com/TuanTNG/tuantng.github.io/blob/master/tuantng.jpg" width="250" alt="accessibility text">
+  <img src="https://github.com/TuanTNG/tuantng.github.io/blob/master/tuantng.jpg">
 </p>
 
 I am Tuan Tang Ngoc (first, last and middle name) from Ho Chi Minh City, Vietnam. I am a final year student and expected to receive my bachelor degree in the honor program in Control & Automation Engineering at Ho Chi Minh City University of Technology in November 2020.
