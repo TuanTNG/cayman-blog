@@ -9,7 +9,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/open?id=12VKu0Za7Eq2U7iHNAdn8CD1pWR6N-4aQ" width="250" alt="accessibility text">
+  <img src="https://drive.google.com/uc?export=view&id=12VKu0Za7Eq2U7iHNAdn8CD1pWR6N-4aQ" width="250" alt="accessibility text">
 </p>
 
 ![Image](https://github.com/TuanTNG/tuantng.github.io/blob/master/tuantng1.jpg)
