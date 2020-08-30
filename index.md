@@ -12,8 +12,6 @@ layout: home
   <img src="https://drive.google.com/uc?export=view&id=12VKu0Za7Eq2U7iHNAdn8CD1pWR6N-4aQ" width="250" alt="accessibility text">
 </p>
 
-![Image](https://github.com/TuanTNG/tuantng.github.io/blob/master/tuantng1.jpg)
-
 I am Tuan Tang Ngoc (first, last and middle name) from Ho Chi Minh City, Vietnam. I am a final year student and expected to receive my bachelor degree in the honor program in Control & Automation Engineering at Ho Chi Minh City University of Technology in November 2020.
 
 At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) where I apply Deep Learning to solve Computer Vision tasks.
