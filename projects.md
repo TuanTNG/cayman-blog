@@ -36,6 +36,7 @@ order: 1
 ------
 ## Vehicles detection, tracking and speed estimation
 [https://github.com/TuanTNG/Vehicles-Detection-Tracking-Speed-estimation-pytorch-mmdet](https://github.com/TuanTNG/Vehicles-Detection-Tracking-Speed-estimation-pytorch-mmdet)
+
 *Conducted at Ho Chi Minh City University of Technology when I were a student*
 * **Time**: Dec. 2019 -- Now
 * **Role**: Main contributor of a team of 2 members where I were responsible for reading, implementing SOTA papers for object detection part.
