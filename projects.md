@@ -35,7 +35,7 @@ order: 1
 
 ------
 ## Vehicles detection, tracking and speed estimation
-[https://github.com/TuanTNG/Vehicles-Detection-Tracking-Speed-estimation-pytorch-mmdet](https://github.com/TuanTNG/Vehicles-Detection-Tracking-Speed-estimation-pytorch-mmdet)
+[https://github.com/TuanTNG/VDTSE](https://github.com/TuanTNG/VDTSE)
 
 *Conducted at Ho Chi Minh City University of Technology when I were a student*
 * **Time**: Dec. 2019 -- Now
