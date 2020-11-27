@@ -8,8 +8,9 @@ order: 1
 ---
 
 ------
-## [Zalo AI Challenge 2020 - Traffic Sign Detection](https://challenge.zalo.ai/portal/traffic-sign-detection)
+## Zalo AI Challenge 2020 - Traffic Sign Detection
 *Conducted at CyberCore when I were a Machine learning Engineer*
+* [**Challenge description**](https://challenge.zalo.ai/portal/traffic-sign-detection)
 * **Time**: Middle of Nov. 2020 -- The end of Nov. 2020 (2 weeks)
 * **Role**: Leader of the team with 4 members including: [Thuy Nguyen Chinh](https://thuyngch.github.io/), Son Nguyen Thanh and Chuong Nguyen Hoang.
 * **Description**: This is an yealy online competition for Vietnam's AI engineers to explore AI technologies and impact life in exciting new ways hold by [Zalo](https://en.wikipedia.org/wiki/VNG_Corporation). Our team name: **CyberCoreVN**
