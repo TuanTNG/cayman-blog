@@ -8,12 +8,29 @@ order: 1
 ---
 
 ------
+## [Zalo AI Challenge 2020 - Traffic Sign Detection](https://challenge.zalo.ai/portal/traffic-sign-detection)
+*Conducted at CyberCore when I were a Machine learning Engineer*
+* **Time**: Middle of Nov. 2020 -- The end of Nov. 2020 (2 weeks)
+* **Role**: Leader of the team with 4 members including: [Thuy Nguyen Chinh](https://thuyngch.github.io/), Son Nguyen Thanh and Chuong Nguyen Hoang
+* **Description**: This is an yealy online competition for Vietnam's AI engineers to explore AI technologies and impact life in exciting new ways hold by [Zalo](https://en.wikipedia.org/wiki/VNG_Corporation)
+* **Result**: On going
+
+------
+## Multiple Object Tracking
+*Conducted at CyberCore when I were a Machine learning Engineer*
+* **Time**: Aug. 2020 -- Now
+* **Role**: Team member of a team with 3 members leading by [Thuy Nguyen Chinh](https://thuyngch.github.io/) and Chuong Nguyen
+* **Description**: This is an internal research project of the company. The datasets we need to make benchmark are Waymo, BDD100k and MOT16/17. The target conferences are: CVPR, ICCV, ECCV or NeurIPS.
+* **Result**: On going
+
+
+------
 ## Rebar-Knot sementic segmentation
 *Conducted at CyberCore when I were a Machine learning Engineer*
-* **Time**: Jul. 2020 -- now
+* **Time**: Jul. 2020 -- Aug. 2020
 * **Role**: Team member of a team with 2 members leading by [Thuy Nguyen Chinh](https://thuyngch.github.io/)
 * **Description**: This is a project between [CyberCore](http://cybercore.co.jp/) and [Panasonic](https://panasonic.jp/). In this project, I mainly focus on finding out a small model with acceptable accuracy and run at least 10 fps on CPU i5-9400, implementing various loss function and ajust the dataset's labels.
-* **Result**: In progress.
+* **Result**: The model is deliver to the customer.
 
 ------
 ## 3D Dangerous Object Detection using Milliwave Radar
@@ -38,7 +55,7 @@ order: 1
 [https://github.com/TuanTNG/VDTSE](https://github.com/TuanTNG/VDTSE)
 
 *Conducted at Ho Chi Minh City University of Technology when I were a student*
-* **Time**: Dec. 2019 -- Now
+* **Time**: Dec. 2019 -- Sep. 2020
 * **Role**: Main contributor of a team of 2 members where I were responsible for reading, implementing SOTA papers for object detection part.
 * **Description**: This is my Thesis. Our team researched and applied SOTA algorithms for object detection, tracking and speed estimation of vehicles at the overpass in Ho Chi Minh city, Vietnam. The dataset is collected and labeled by team members. 
 * **Result**: On going.
