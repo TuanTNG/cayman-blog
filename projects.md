@@ -14,7 +14,7 @@ order: 1
 * **Time**: Middle of Nov. 2020 -- The end of Nov. 2020 (2 weeks)
 * **Role**: Corresponding member with 3 other members [Thuy Nguyen Chinh](https://thuyngch.github.io/), Son Nguyen Thanh and Chuong Nguyen Hoang.
 * **Description**: This is an yealy online competition for Vietnam's AI engineers to explore AI technologies and impact life in exciting new ways hold by [Zalo](https://en.wikipedia.org/wiki/VNG_Corporation). Our team name: **CyberCoreVN**
-* **Result**: On going
+* **Result**: Rank 1st in Public Leaderboard, Rank 3rd in Private Leaderboard
 
 ------
 ## Multiple Object Tracking
