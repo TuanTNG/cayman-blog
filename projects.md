@@ -37,7 +37,7 @@ order: 1
 *Conducted at CyberCore when I were a Machine learning Engineer*
 * **Time**: Jul. 2020 -- Aug. 2020
 * **Role**: Team member of a team with 2 members leading by [Thuy Nguyen Chinh](https://thuyngch.github.io/)
-* **Description**: This is a project between [CyberCore](http://cybercore.co.jp/) and [TODA](https://www.toda.co.jp/english/). In this project, I mainly focus on finding out a small model with acceptable accuracy and run at least 10 fps on CPU i5-9400, implementing various loss function and ajust the dataset's labels.
+* **Description**: This is a project between [CyberCore](http://cybercore.co.jp/) and [TODA](https://www.toda.co.jp/english/). In this project, I mainly focus on finding out a small model with acceptable accuracy and run at least 10 fps on CPU i5-9400; implementing various loss function and ajust the dataset's labels.
 * **Result**: The model is deliver to the customer.
 
 ------
