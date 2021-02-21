@@ -14,6 +14,10 @@ order: 3
 <!-- [![alt text][1]]() GitHub: [https://github.com/TuanTNG](https://github.com/TuanTNG) -->
 GitHub: [https://github.com/TuanTNG](https://github.com/TuanTNG)
 
+LinkedIn: [Tuan Tang](https://www.linkedin.com/in/tuan-tang-52b9201a7/)
+
+Twitter: [Tuan Tang](https://twitter.com/TuanTan00498428)
+
 Mail and Skype: [tangngoctuantttt@gmail.com]()
 
 [Go to the Home Page]({{ '/' | absolute_url }})
