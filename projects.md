@@ -8,8 +8,8 @@ order: 1
 ---
 
 ## Youtube VIS Video Instance Segmentation 2021 Challange
-[Challange description](https://youtube-vos.org/dataset/vis/)
 *Conducted at CyberCore when I was a Machine Learning Engineer*
+* [Challange description](https://youtube-vos.org/dataset/vis/)
 * **Time**: Feb. 2020 -- now
 * **Role**: Team member of a team with 3 members.
 * **Description**: I mainly focus on reading and implementing papers to improve the model results on three tasks: Object Detection, Instance Segmentation, and Object Tracking.
