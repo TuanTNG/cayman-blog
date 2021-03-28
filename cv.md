@@ -7,12 +7,7 @@ ref: CV
 order: 2
 ---
 
-
-<object data="https://www.dropbox.com/home/Github_io?preview=CV.pdf" type="application/pdf" width="800px" height="800px">
-    <embed src="https://www.dropbox.com/home/Github_io?preview=CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.dropbox.com/home/Github_io?preview=CV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Please click [here](https://drive.google.com/file/d/11xj7s1MuRnyt2N49WhpA-C_mLWiOT0nu/view) to see my CV.
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
