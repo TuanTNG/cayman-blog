@@ -7,9 +7,31 @@ ref: projects
 order: 1
 ---
 
+## Youtube VIS Video Instance Segmentation 2021 Challange
+[Challange description](https://youtube-vos.org/dataset/vis/)
+*Conducted at CyberCore when I was a Machine Learning Engineer*
+* **Time**: Feb. 2020 -- now
+* **Role**: Team member of a team with 3 members.
+* **Description**: I mainly focus on reading and implementing papers to improve the model results on three tasks: Object Detection, Instance Segmentation, and Object Tracking.
+* **Result**: In process
+
+## Transformer-based Multiple Object Tracking
+*Conducted at CyberCore when I was a Machine Learning Engineer*
+* **Time**: Sep. 2020 -- now
+* **Role**: Team member of a team with 3 members.
+* **Description**: Research on Transformer (Attention Is All You Need) methods Multiple Object Tracking problem, benchmarked on Autonomous Driving datasets.
+* **Result**: In process
+
+## Transformer-based for [Seeing Without Looking](https://arxiv.org/pdf/1912.12290.pdf)
+*Conducted at CyberCore when I was a Machine Learning Engineer*
+* **Time**: Jan. 2020 -- Mar. 2021
+* **Role**: Main contributor of a team of 2 members.
+* **Description**: Improve the model performance by replacing the RNN network in the original Seeing Without Looking papers.
+* **Result**: Reach small improvements.
+
 ## Line Segment Detection
-*Conducted at CyberCore when I was a Machine learning Engineer*
-* **Time**: Dec. 2020 -- Feb. 2021
+*Conducted at CyberCore when I was a Machine Learning Engineer*
+* **Time**: Dec. 2020 -- now
 * **Role**: Team member of a team with 3 members leading by [Thuy Nguyen Chinh](https://thuyngch.github.io/)
 * **Description**: This is a project between [CyberCore](http://cybercore.co.jp/) and [TODA](https://www.toda.co.jp/english/). In this project, I mainly focus on developing a fast and robust model processing Full-HD images on CPU with 3~10 fps for checking steel structure in construction.
 * **Result**: In process
@@ -54,18 +76,18 @@ order: 1
 
 *Conducted at CyberCore when I was a Machine learning Engineer*
 * **Time**: May 2020 -- Jul. 2020
-* **Role**: Major contributor of a team of 2 members, led by [Mr. Khai](https://www.linkedin.com/in/nqkhai1706/?originalSubdomain=vn), where I was responsible for reading, implementing SOTA papers and preparing dataset.
-* **Description**: We researched network architectures and modify the training dataset to help the network learning easier as well as more stable. This project is a demo of [CyberCore](http://cybercore.co.jp/) delivered to customer in Japan.
+* **Role**: Major contributor of a team of 2 members, led by [Mr. Khai](https://www.linkedin.com/in/nqkhai1706/?originalSubdomain=vn).
+* **Description**: We researched, read papers, implementing network architectures and modify the training dataset to help the network learning easier as well as more stable. This project is a demo of [CyberCore](http://cybercore.co.jp/) delivered to customer in Japan.
 * **Result**: The demo video was sent to the customer.
 
 ------
-## Vehicles detection, tracking and speed estimation
+## Vehicles Detection, Tracking and Speed Estimation
 [https://github.com/TuanTNG/VDTSE](https://github.com/TuanTNG/VDTSE)
 
 *Conducted at Ho Chi Minh City University of Technology when I was a student*
 * **Time**: Dec. 2019 -- Sep. 2020
-* **Role**: Main contributor of a team of 2 members where I was responsible for reading, implementing SOTA papers for the object detection part.
-* **Description**: This is my Thesis. Our team researched and applied SOTA algorithms for object detection, tracking and speed estimation of vehicles at the overpass in Ho Chi Minh City, Vietnam. The dataset is collected and labeled by team members. 
+* **Role**: Main contributor of a team of 2 members.
+* **Description**: This is my Thesis. Our team researched and applied SOTA algorithms for object detection, tracking and speed estimation of vehicles at the overpass in Ho Chi Minh City, Vietnam. The dataset is collected and labeled by team members.
 * **Result**: The highest grade in the Council.
 
 ------
