@@ -12,7 +12,7 @@ layout: home
   <img src="https://drive.google.com/uc?export=view&id=12VKu0Za7Eq2U7iHNAdn8CD1pWR6N-4aQ" width="500" alt="accessibility text">
 </p>
 
-I am Tuan Tang Ngoc (first, last and middle name) from Ho Chi Minh City, Vietnam. I graduated from Ho Chi Minh City University of Technology and major in Control & Automation Engineering.
+I am Tuan Tang Ngoc (first, last and middle name) from Ho Chi Minh City, Vietnam. I graduated from Ho Chi Minh City University of Technology and major in Control Engineering and Automation.
 
 At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) where I apply Deep Learning to solve Computer Vision tasks.
 
@@ -54,11 +54,14 @@ At the moment, I am working at [Cyber Core Co.,LTd.](https://cybercore.co.jp/) w
 ### Scholarships
 [Luong Van Can Fund](http://www.lvcfund.org.vn/en/) (Sep. 2017 - Sep. 2020), [Kanden-SS](https://kanden-sys.jp/) (Sep 2018), [Mitsuba](https://www.mitsuba.co.jp/english/) (Aug. 2017), and [Lawrence S. Ting](https://www.lawrencestingfoundation.org/en/) (Sep. 2017 I but refused to receive).
 
+### CURRENT-VIBE internship selection competition (Sep. 2017) 
+The winner of this competition and be one of 2 students chosen to have a fully-funded internship in CIT
+
 ### Honor Program (Sep. 2017)
 Be selected to the student in Honor Program of Control & Automation Engineering, Ho Chi Minh City University of Technology.
 
 ### Directly offered to study at Ho Chi Minh City University of Technology (May 2016)
-Offered to start university at Ho Chi Minh City University of Technology without taking any examination.
+Offered to study at Ho Chi Minh City University of Technology without taking national examination.
 
 ### National Excellent Student in Science and Engineering (Mar. 2015)
 The first prize in the Viet Nam National Secondary School Student Science and Engineering fair in 2015 in the field of Electrical and Mechanical Engineering and the overall second prize in the same contest.
